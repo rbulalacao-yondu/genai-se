@@ -1,0 +1,1 @@
+// ProductFactory that returns valid Product objects using java-faker
